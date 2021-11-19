@@ -840,4 +840,8 @@ a:focus {
   display: flex;
   flex-wrap: wrap;
 }
+.card-body{
+  display: flex;
+  padding: none;
+}
 /*# sourceMappingURL=style.css.map */
